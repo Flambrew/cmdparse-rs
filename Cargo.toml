@@ -1,0 +1,10 @@
+[package]
+name = "flambrew-cmdparse-rs"
+version = "0.1.0"
+edition = "2024"
+description = "Simple handmade terminal command parser with JSON command format specification using Rust"
+license = "GPL-3.0-only"
+repository = "https://github.com/Flambrew/cmdparse-rs.git"
+
+[dependencies]
+flambrew-json-rs = "1.0.0"
